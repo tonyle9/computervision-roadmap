@@ -1,2 +1,2 @@
 # computervision-roadmap
-Best resources to learn computer vision
+ROADMAP(Mind Map) and KEYWORD for students those who have interest in learning Computervision
